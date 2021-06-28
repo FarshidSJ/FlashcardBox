@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flashcard Box</string>
+    <string name="question_activity_label">Questions</string>
+    <string name="main_activity_label">Seasons</string>
+</resources>
